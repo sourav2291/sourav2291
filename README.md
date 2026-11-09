@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sourav Prakash
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning new Teqs
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me souravprakashvichu@gmail.com
 - ⚡ Fun fact: I love to travel....
